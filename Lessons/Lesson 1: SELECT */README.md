@@ -1,5 +1,7 @@
 # Lesson 1: SELECT *
 
+[View on website](https://www.sql-easy.com/select)
+
 In SQL, data is usually organized in various tables. For example, a sports team database might have the tables *teams*, *players*, and *games*. A wedding database might have tables *guests*, *vendors*, and *music_playlist*.
 
 Imagine we have a table that stores family members with each member's name, species, gender, and number of books read.
