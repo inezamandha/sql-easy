@@ -1,0 +1,1 @@
+SELECT * FROM family_members WHERE num_books_read > 190;
