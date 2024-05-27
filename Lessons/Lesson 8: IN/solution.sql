@@ -1,0 +1,1 @@
+SELECT * FROM friends_of_pickles WHERE species NOT IN ('cat', 'dog');
