@@ -1,4 +1,4 @@
-# Lesson 7: IN
+# Lesson 8: IN
 
 [View on website](https://www.sql-easy.com/in)
 
