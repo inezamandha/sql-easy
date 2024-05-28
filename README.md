@@ -14,3 +14,4 @@ This repository contains all solutions of `sql-easy`
 | 6 | [Lesson 6: AND](https://www.sql-easy.com/and) | 2024/05/21 | |
 | 7 | [Lesson 7: OR](https://www.sql-easy.com/or) | 2024/05/22 | |
 | 8 | [Lesson 8: IN](https://www.sql-easy.com/in) | 2024/05/27 | |
+| 9 | [Lesson 9: DISTINCT](https://www.sql-easy.com/distinct) | 2024/05/28 | |

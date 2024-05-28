@@ -1,0 +1,1 @@
+SELECT DISTINCT species FROM friends_of_pickles WHERE height_cm > 50;
