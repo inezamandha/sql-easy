@@ -15,3 +15,4 @@ This repository contains all solutions of `sql-easy`
 | 7 | [Lesson 7: OR](https://www.sql-easy.com/or) | 2024/05/22 | |
 | 8 | [Lesson 8: IN](https://www.sql-easy.com/in) | 2024/05/27 | |
 | 9 | [Lesson 9: DISTINCT](https://www.sql-easy.com/distinct) | 2024/05/28 | |
+| 10 | [Lesson 10: ORDER BY](https://www.sql-easy.com/order_by) | 2024/05/29 | |

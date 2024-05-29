@@ -1,0 +1,1 @@
+SELECT * FROM friends_of_pickles ORDER BY height_cm DESC;
