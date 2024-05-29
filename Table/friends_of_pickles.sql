@@ -13,4 +13,4 @@ INSERT INTO friends_of_pickles (id, name, gender, species, height_cm) VALUES
 (4, 'Leela', 'female', 'cat', 25),
 (5, 'Odie', 'male', 'dog', 40),
 (6, 'Jumpy', 'male', 'dog', 35),
-(7, 'Sneakers', 'male', 'dog', 55)
+(7, 'Sneakers', 'male', 'dog', 55);
