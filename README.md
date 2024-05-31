@@ -17,3 +17,4 @@ This repository contains all solutions of `sql-easy`
 | 9 | [Lesson 9: DISTINCT](https://www.sql-easy.com/distinct) | 2024/05/28 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2009%3A%20DISTINCT) |
 | 10 | [Lesson 10: ORDER BY](https://www.sql-easy.com/order_by) | 2024/05/29 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2010%3A%20ORDER%20BY) |
 | 11 | [Lesson 11: LIMIT # of returned rows](https://www.sql-easy.com/limit) | 2024/05/29 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2011%3A%20LIMIT%20%23%20of%20returned%20rows) |
+| 12 | [Lesson 12: COUNT(*)](https://www.sql-easy.com/count) | 2024/05/31 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2012%3A%20COUNT(*)) |
