@@ -19,3 +19,4 @@ This repository contains all solutions of `sql-easy`
 | 11 | [Lesson 11: LIMIT # of returned rows](https://www.sql-easy.com/limit) | 2024/05/30 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2011%3A%20LIMIT%20%23%20of%20returned%20rows) |
 | 12 | [Lesson 12: COUNT(*)](https://www.sql-easy.com/count) | 2024/05/31 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2012%3A%20COUNT(*)) |
 | 13 | [Lesson 13: COUNT(*) ... WHERE](https://www.sql-easy.com/count_where) | 2024/06/03 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2013%3A%20COUNT(*)%20...%20WHERE) |
+| 14 | [Lesson 14: SUM](https://www.sql-easy.com/sum) | 2024/06/04 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2014%3A%20SUM) |
