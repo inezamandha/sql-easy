@@ -1,0 +1,1 @@
+SELECT MAX(num_books_read) FROM family_members;
