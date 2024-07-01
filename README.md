@@ -22,3 +22,4 @@ This repository contains all solutions of `sql-easy`
 | 14 | [Lesson 14: SUM](https://www.sql-easy.com/sum) | 2024/06/04 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2014%3A%20SUM) |
 | 15 | [Lesson 15: AVG](https://www.sql-easy.com/avg) | 2024/06/05 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2015%3A%20AVG) |
 | 16 | [Lesson 16: MAX and MIN](https://www.sql-easy.com/max_min) | 2024/06/06 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2016%3A%20MAX%20and%20MIN) |
+| 17 | [Lesson 17: GROUP BY](https://www.sql-easy.com/group_by) | 2024/06/07 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2017%3A%20GROUP%20BY) |
