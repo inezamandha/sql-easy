@@ -1,0 +1,1 @@
+SELECT MAX(height_cm), species FROM friends_of_pickles GROUP BY species;
