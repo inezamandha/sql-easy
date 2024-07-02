@@ -1,0 +1,1 @@
+SELECT * FROM celebs_born WHERE birthdate > '1980-09-01';
