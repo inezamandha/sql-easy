@@ -26,3 +26,4 @@ This repository contains all solutions of `sql-easy`
 | 18 | [Lesson 18: Nested queries](https://www.sql-easy.com/nested) | 2024/06/10 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2018%3A%20Nested%20queries) |
 | 19 | [Lesson 19: NULL](https://www.sql-easy.com/null) | 2024/06/11 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2019%3A%20NULL) |
 | 20 | [Lesson 20: Date](https://www.sql-easy.com/date) | 2024/06/12 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2020%3A%20Date) |
+| 21 | [Lesson 21: Inner joins](https://www.sql-easy.com/joins) | 2024/06/13 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2021%3A%20Inner%20joins) |
