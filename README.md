@@ -24,3 +24,4 @@ This repository contains all solutions of `sql-easy`
 | 16 | [Lesson 16: MAX and MIN](https://www.sql-easy.com/max_min) | 2024/06/06 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2016%3A%20MAX%20and%20MIN) |
 | 17 | [Lesson 17: GROUP BY](https://www.sql-easy.com/group_by) | 2024/06/07 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2017%3A%20GROUP%20BY) |
 | 18 | [Lesson 18: Nested queries](https://www.sql-easy.com/nested) | 2024/06/10 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2018%3A%20Nested%20queries) |
+| 19 | [Lesson 19: NULL](https://www.sql-easy.com/null) | 2024/06/11 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2019%3A%20NULL) |
