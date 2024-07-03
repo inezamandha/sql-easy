@@ -1,0 +1,1 @@
+SELECT name, COALESCE(tank, gun, sword) as weapon FROM fighters;
