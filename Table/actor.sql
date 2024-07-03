@@ -5,4 +5,6 @@ CREATE TABLE actor (
 
 INSERT INTO actor (id, name) VALUES
 (1, 'Alyson Hannigan'),
-(2, 'Neil Patrick Harris');
+(2, 'Neil Patrick Harris'),
+(3, 'Adam Sandler'),
+(4, 'Steve Carell');
