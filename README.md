@@ -35,3 +35,4 @@ This repository contains all solutions of `sql-easy`
 | 27 | [Lesson 27: Self joins](https://www.sql-easy.com/self_join) | 2024/06/25 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2027%3A%20Self%20joins) |
 | 28 | [Lesson 28: LIKE](https://www.sql-easy.com/like) | 2024/06/26 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2028%3A%20LIKE) |
 | 29 | [Lesson 29: CASE](https://www.sql-easy.com/case) | 2024/06/27 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2029%3A%20CASE) |
+| 30 | [Lesson 30: SUBSTR](https://www.sql-easy.com/substr) | 2024/06/28 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2030%3A%20SUBSTR) |
