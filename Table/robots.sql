@@ -7,7 +7,7 @@ CREATE TABLE robots (
 INSERT INTO robots (id, name, location) VALUES
 (1, 'Robot 2000', 'New City, NY'),
 (2, 'Champion Robot 2001', 'Palo Alto, CA'),
-(3, 'Dragon', 'New York City'),
+(3, 'Dragon', 'New York City, NY'),
 (4, 'Turbo Robot 2002', 'Spring Valley, NY'),
 (5, 'Super Robot 2003', 'Nyack, NY'),
 (6, 'Super Turbo Robot 2004', 'Tampa, FL'),
