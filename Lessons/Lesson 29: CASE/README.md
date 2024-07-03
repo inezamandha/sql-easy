@@ -1,6 +1,6 @@
 # Lesson 29: CASE
 
-[View on website](https://www.sql-easy.com/case#google_vignette)
+[View on website](https://www.sql-easy.com/case)
 
 You can use a `CASE` statement to return certain values when certain scenarios are true.
 
