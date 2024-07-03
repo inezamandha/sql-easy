@@ -28,3 +28,4 @@ This repository contains all solutions of `sql-easy`
 | 20 | [Lesson 20: Date](https://www.sql-easy.com/date) | 2024/06/12 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2020%3A%20Date) |
 | 21 | [Lesson 21: Inner joins](https://www.sql-easy.com/joins) | 2024/06/13 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2021%3A%20Inner%20joins) |
 | 22 | [Lesson 22: Multiple joins](https://www.sql-easy.com/multiple_joins) | 2024/06/14 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2022%3A%20Multiple%20joins) |
+| 23 | [Lesson 23: Joins with WHERE](https://www.sql-easy.com/joins_with_where) | 2024/06/19 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2023%3A%20Joins%20with%20WHERE) |
