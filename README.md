@@ -30,3 +30,4 @@ This repository contains all solutions of `sql-easy`
 | 22 | [Lesson 22: Multiple joins](https://www.sql-easy.com/multiple_joins) | 2024/06/14 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2022%3A%20Multiple%20joins) |
 | 23 | [Lesson 23: Joins with WHERE](https://www.sql-easy.com/joins_with_where) | 2024/06/19 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2023%3A%20Joins%20with%20WHERE) |
 | 24 | [Lesson 24: Left joins](https://www.sql-easy.com/left_joins) | 2024/06/20 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2024%3A%20Left%20joins) |
+| 25 | [Lesson 25: Table alias](https://www.sql-easy.com/table_alias) | 2024/06/21 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2025%3A%20Table%20alias) |
