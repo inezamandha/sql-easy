@@ -32,3 +32,4 @@ This repository contains all solutions of `sql-easy`
 | 24 | [Lesson 24: Left joins](https://www.sql-easy.com/left_joins) | 2024/06/20 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2024%3A%20Left%20joins) |
 | 25 | [Lesson 25: Table alias](https://www.sql-easy.com/table_alias) | 2024/06/21 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2025%3A%20Table%20alias) |
 | 26 | [Lesson 26: Column alias](https://www.sql-easy.com/column_alias) | 2024/06/24 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2026%3A%20Column%20alias) |
+| 27 | [Lesson 27: Self joins](https://www.sql-easy.com/self_join) | 2024/06/25 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2027%3A%20Self%20joins) |
