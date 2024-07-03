@@ -7,4 +7,6 @@ INSERT INTO character (id, name) VALUES
 (1, 'Doogie Howser'),
 (2, 'Barney Stinson'),
 (3, 'Lily Aldrin'),
-(4, 'Willow Rosenberg');
+(4, 'Willow Rosenberg'),
+(5, 'Steve Urkel'),
+(6, 'Homer Simpson');
