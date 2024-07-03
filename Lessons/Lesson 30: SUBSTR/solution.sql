@@ -1,0 +1,1 @@
+SELECT * FROM robots WHERE SUBSTR(location, -2) LIKE 'NY';
