@@ -6,4 +6,5 @@ CREATE TABLE tv_show (
 INSERT INTO tv_show (id, name) VALUES
 (1, 'Buffy the Vampire Slayer'),
 (2, 'How I Met Your Mother'),
-(3, 'Doogie Howser, M.D.');
+(3, 'Doogie Howser, M.D.'),
+(4, 'Friends');
