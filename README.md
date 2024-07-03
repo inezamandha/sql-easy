@@ -36,3 +36,4 @@ This repository contains all solutions of `sql-easy`
 | 28 | [Lesson 28: LIKE](https://www.sql-easy.com/like) | 2024/06/26 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2028%3A%20LIKE) |
 | 29 | [Lesson 29: CASE](https://www.sql-easy.com/case) | 2024/06/27 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2029%3A%20CASE) |
 | 30 | [Lesson 30: SUBSTR](https://www.sql-easy.com/substr) | 2024/06/28 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2030%3A%20SUBSTR) |
+| 31 | [Lesson 31: COALESCE](https://www.sql-easy.com/coalesce) | 2024/07/01 | [Click here](https://github.com/inezamandha/sql-easy/tree/main/Lessons/Lesson%2031%3A%20COALESCE) |
